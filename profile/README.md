@@ -65,5 +65,6 @@ Stay tuned for our upcoming 🔥 projects, cool tools, and developer-friendly re
 Want to work with us or just say hi?  
 Drop a star ⭐, fork a repo 🍴, or send us a message!  
 We’d love to hear from you.
+**Mail:** hanzlabaig917@gmail.com
 
 > **WeCoded Developers** — _Code with passion, design with purpose._ 💙
